@@ -1,0 +1,26 @@
+node_modules/
+dist/
+.vscode/
+*.user
+*.suo
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+# Visual Studio
+.vs/
+**/.vs/
+
+# Build files
+**/bin/
+**/obj/
+
+# Node
+**/node_modules/
+**/dist/
+
+# Environment variables
+.env
+.env.*
+!.env.example
